@@ -20,19 +20,20 @@
    - Levels:Choose difficulty -Easy,Medium, or Hard.Each  level changes the number range and attempt limits.
    - Scores and Colors:Keeps track of the players performance and attempts. Colored messages for better feedback(e.g.,green for correct,red for wrong)
 # Files included
-    File Name                                     Description  
-  - Num_guessing_game_basic.py                   Basic version of the game
-  - Num_guessing_with_replay.py                  Adds replay functionality
-  - Num_guessing_with_levels.py                  Adds difficulty levels
-  - Num_guessing_with_scores_and_colors.py       Tracks and displays scores and adds colored feedback using ANSI codes
+   | File Name      |                             Description  |
+   | :--- | :--- |
+  -| 'Num_guessing_game_basic.py'  |                Basic version of the game |
+  -| 'Num_guessing_with_replay.py' |                Adds replay functionality |
+  -| 'Num_guessing_with_levels.py' |                Adds difficulty levels |
+  -| 'Num_guessing_with_scores_and_colors.py'|      Tracks and displays scores and adds colored feedback using ANSI codes |
 # Requirements
    - Python 3.8 or above
    - Works on any terminal(Windows,macOS,Linux)  
 # How to Run
-  - Num_guessing_game_basic.py                  
-  - Num_guessing_with_replay.py
-  - Num_guessing_with_levels.py                                    
-  - Num_guessing_with_scores_and_colors.py 
+  - 'Num_guessing_game_basic.py'                  
+  - 'Num_guessing_with_replay.py'
+  - 'Num_guessing_with_levels.py'                                    
+  - 'Num_guessing_with_scores_and_colors.py' 
 # Example GamePlay
   - Welcome to the Number Guessing Game!
   - Choose difficulty:1.Easy 2.Medium 3.Hard:3
