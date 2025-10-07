@@ -34,15 +34,15 @@
   - Num_guessing_with_levels.py                                    
   - Num_guessing_with_scores_and_colors.py 
 # Example GamePlay
-   Welcome to the Number Guessing Game!
-   Choose difficulty:1.Easy 2.Medium 3.Hard:3
-   Enter your guess(between 1 and 100):50
-   Too Low! Try again.
-   Enter your guess(between 1 and 100):75
-   Too High! Try again.
-   Enter your guess(between 1 and 100):63
-   Congratulations! You guessed the number in 3 attempts.
-   Play again?(yes/no):yes
+  - Welcome to the Number Guessing Game!
+  - Choose difficulty:1.Easy 2.Medium 3.Hard:3
+  - Enter your guess(between 1 and 100):50
+  - Too Low! Try again.
+  - Enter your guess(between 1 and 100):75
+  - Too High! Try again.
+  - Enter your guess(between 1 and 100):63
+  - Congratulations! You guessed the number in 3 attempts.
+  - Play again?(yes/no):yes
 # Game Logic Summary
    1. Computer selects a random number within a range.
    2. Player inputs a guess.
