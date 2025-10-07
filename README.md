@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Number Guessing Game
    A simple and interactive Python Project built as part of learning basic programming and logical thinking skills.
 
