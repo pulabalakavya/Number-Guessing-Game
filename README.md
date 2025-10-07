@@ -15,24 +15,24 @@
    - Using ANSI color codes for console output
    - Basic game logic design
 # features
-   Basic Game: Guess the correct number between a given range.
-   Replay: Option to play again without restarting the program.
-   Levels:Choose difficulty -Easy,Medium, or Hard.Each  level changes the number range and attempt limits.
-   Scores and Colors:Keeps track of the players performance and attempts. Colored messages for better feedback(e.g.,green for correct,red for wrong)
+   - Basic Game: Guess the correct number between a given range.
+   - Replay: Option to play again without restarting the program.
+   - Levels:Choose difficulty -Easy,Medium, or Hard.Each  level changes the number range and attempt limits.
+   - Scores and Colors:Keeps track of the players performance and attempts. Colored messages for better feedback(e.g.,green for correct,red for wrong)
 # Files included
-   File Name                                    Description  
-   Num_guessing_game_basic.py                   Basic version of the game
-   Num_guessing_with_replay.py                  Adds replay functionality
-   Num_guessing_with_levels.py                  Adds difficulty levels
-   Num_guessing_with_scores_and_colors.py       Tracks and displays scores and adds colored feedback using ANSI codes
+    File Name                                     Description  
+  - Num_guessing_game_basic.py                   Basic version of the game
+  - Num_guessing_with_replay.py                  Adds replay functionality
+  - Num_guessing_with_levels.py                  Adds difficulty levels
+  - Num_guessing_with_scores_and_colors.py       Tracks and displays scores and adds colored feedback using ANSI codes
 # Requirements
    - Python 3.8 or above
    - Works on any terminal(Windows,macOS,Linux)  
 # How to Run
-   Num_guessing_game_basic.py                  
-   Num_guessing_with_replay.py                  
-   Num_guessing_with_levels.py                  
-   Num_guessing_with_scores_and_colors.py 
+  - Num_guessing_game_basic.py                  
+  - Num_guessing_with_replay.py
+  - Num_guessing_with_levels.py                                    
+  - Num_guessing_with_scores_and_colors.py 
 # Example GamePlay
    Welcome to the Number Guessing Game!
    Choose difficulty:1.Easy 2.Medium 3.Hard:3
@@ -54,9 +54,10 @@
    - Maintain a scoeboard file to track multiple players
    - Use Object-Oriented Programming (OOP) concepts for cleaner design
    - Add sound effects or animations for engagement
-      # Author
+
+# Author
    Developed by:Kavya Pulabala
-   A Python learning project focused on understanding logic,conditions,and loops through a fun interactive game.  
+   - A Python learning project focused on understanding logic,conditions,and loops through a fun interactive game.  
 
 
 
