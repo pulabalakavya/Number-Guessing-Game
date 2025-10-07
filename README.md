@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Number Guessing Game
    A simple and interactive Python Project built as part of learning basic programming and logical thinking skills.
 
@@ -61,3 +62,7 @@ Number Guessing Game
 
 
         
+=======
+# Number-Guessing-Game
+Interactive Number Guessing Game in python with levels, replay, color feedback, and scoring. Built for learning and practice.
+>>>>>>> 6fa2b031c41daa7cd826f14f96e7f25ea0cbc79e
