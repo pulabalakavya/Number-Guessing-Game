@@ -55,7 +55,6 @@
    - Maintain a scoeboard file to track multiple players
    - Use Object-Oriented Programming (OOP) concepts for cleaner design
    - Add sound effects or animations for engagement
-
 # Author
    Developed by:Kavya Pulabala
    - A Python learning project focused on understanding logic,conditions,and loops through a fun interactive game.  
